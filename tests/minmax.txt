@@ -22,769 +22,756 @@ Current player: White
 ........
 White: 4
 Black: 1
-Move played: ( 5 , 5 )
+Move played: ( 5 , 3 )
 
 Current player: Black
 ........
 ........
 ........
 ...wb...
-...bwb..
-.....w..
+...wbb..
+...w....
 ........
 ........
 White: 3
 Black: 3
-Move played: ( 2 , 3 )
+Move played: ( 2 , 2 )
 
 Current player: White
 ........
 ........
-...b....
+..b.....
 ...bb...
-...bwb..
-.....w..
+...wbb..
+...w....
 ........
 ........
 White: 5
 Black: 2
-Move played: ( 2 , 2 )
+Move played: ( 2 , 3 )
 
 Current player: Black
 ........
 ........
-..wb....
+..bw....
 ...wb...
-...bwb..
-.....w..
+...wbb..
+...w....
 ........
 ........
 White: 4
 Black: 4
-Move played: ( 2 , 1 )
+Move played: ( 1 , 2 )
 
 Current player: White
 ........
-........
-.bbb....
+..b.....
+..bb....
 ...wb...
-...bwb..
-.....w..
+...wbb..
+...w....
 ........
 ........
 White: 6
 Black: 3
-Move played: ( 1 , 1 )
+Move played: ( 4 , 6 )
 
 Current player: Black
 ........
-.w......
-.bwb....
+..b.....
+..bb....
 ...wb...
-...bwb..
-.....w..
+...wwww.
+...w....
 ........
 ........
-White: 5
-Black: 5
+White: 4
+Black: 6
+Move played: ( 6 , 3 )
+
+Current player: White
+........
+..b.....
+..bb....
+...bb...
+...bwww.
+...b....
+...b....
+........
+White: 8
+Black: 3
 Move played: ( 0 , 1 )
 
-Current player: White
-.b......
-.b......
-.bwb....
-...wb...
-...bwb..
-.....w..
-........
-........
-White: 7
-Black: 4
-Move played: ( 0 , 0 )
-
 Current player: Black
-wb......
 .w......
-.bwb....
-...wb...
-...bwb..
-.....w..
+..w.....
+..bw....
+...bw...
+...bwww.
+...b....
+...b....
 ........
-........
-White: 6
-Black: 6
-Move played: ( 3 , 2 )
-
-Current player: White
-wb......
-.w......
-.bwb....
-..bbb...
-...bwb..
-.....w..
-........
-........
-White: 8
-Black: 5
-Move played: ( 0 , 2 )
-
-Current player: Black
-www.....
-.w......
-.bwb....
-..bbb...
-...bwb..
-.....w..
-........
-........
-White: 7
+White: 5
 Black: 7
-Move played: ( 5 , 4 )
-
-Current player: White
-www.....
-.w......
-.bwb....
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 8
-Black: 7
-Move played: ( 2 , 0 )
-
-Current player: Black
-www.....
-.w......
-wwwb....
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 7
-Black: 9
-Move played: ( 1 , 0 )
-
-Current player: White
-www.....
-bw......
-wbwb....
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 9
-Black: 8
-Move played: ( 2 , 4 )
-
-Current player: Black
-www.....
-bw......
-wbwww...
-..bbw...
-...bwb..
-....bw..
-........
-........
-White: 7
-Black: 11
-Move played: ( 2 , 5 )
-
-Current player: White
-www.....
-bw......
-wbbbbb..
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 12
-Black: 7
-Move played: ( 2 , 6 )
-
-Current player: Black
-www.....
-bw......
-wwwwwww.
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 7
-Black: 13
-Move played: ( 1 , 2 )
-
-Current player: White
-www.....
-bbb.....
-wwbbwww.
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 11
-Black: 10
-Move played: ( 0 , 3 )
-
-Current player: Black
-wwww....
-bbw.....
-wwbbwww.
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 10
-Black: 12
-Move played: ( 2 , 7 )
-
-Current player: White
-wwww....
-bbw.....
-wwbbbbbb
-..bbb...
-...bwb..
-....bw..
-........
-........
-White: 14
-Black: 9
-Move played: ( 1 , 4 )
-
-Current player: Black
-wwww....
-bbw.w...
-wwbbwbbb
-..bbw...
-...bwb..
-....bw..
-........
-........
-White: 12
-Black: 12
-Move played: ( 0 , 4 )
-
-Current player: White
-wwwwb...
-bbw.b...
-wwbbbbbb
-..bbb...
-...bbb..
-....bw..
-........
-........
-White: 17
-Black: 8
-Move played: ( 3 , 6 )
-
-Current player: Black
-wwwwb...
-bbw.w...
-wwbbbwbb
-..bbb.w.
-...bbb..
-....bw..
-........
-........
-White: 15
-Black: 11
-Move played: ( 0 , 5 )
-
-Current player: White
-wwwwbb..
-bbw.b...
-wwbbbwbb
-..bbb.w.
-...bbb..
-....bw..
-........
-........
-White: 17
-Black: 10
-Move played: ( 0 , 6 )
-
-Current player: Black
-wwwwwww.
-bbw.b...
-wwbbbwbb
-..bbb.w.
-...bbb..
-....bw..
-........
-........
-White: 15
-Black: 13
 Move played: ( 1 , 3 )
 
 Current player: White
-wwwwwww.
-bbbbb...
-wwbbbwbb
-..bbb.w.
-...bbb..
-....bw..
+.w......
+..wb....
+..bb....
+...bw...
+...bwww.
+...b....
+...b....
 ........
-........
-White: 17
-Black: 12
-Move played: ( 4 , 1 )
+White: 7
+Black: 6
+Move played: ( 1 , 1 )
 
 Current player: Black
-wwwwwww.
-bbbbw...
-wwbwbwbb
-..wbb.w.
-.w.bbb..
-....bw..
+.w......
+.wwb....
+..wb....
+...ww...
+...bwww.
+...b....
+...b....
 ........
+White: 5
+Black: 9
+Move played: ( 4 , 7 )
+
+Current player: White
+.w......
+.wwb....
+..wb....
+...ww...
+...bbbbb
+...b....
+...b....
 ........
-White: 14
+White: 9
+Black: 6
+Move played: ( 0 , 3 )
+
+Current player: Black
+.w.w....
+.www....
+..ww....
+...ww...
+...bbbbb
+...b....
+...b....
+........
+White: 7
+Black: 9
+Move played: ( 0 , 0 )
+
+Current player: White
+bw.w....
+.bww....
+..bw....
+...bw...
+...bbbbb
+...b....
+...b....
+........
+White: 11
+Black: 6
+Move played: ( 2 , 1 )
+
+Current player: Black
+bw.w....
+.www....
+.www....
+...bw...
+...bbbbb
+...b....
+...b....
+........
+White: 9
+Black: 9
+Move played: ( 0 , 2 )
+
+Current player: White
+bbbw....
+.www....
+.www....
+...bw...
+...bbbbb
+...b....
+...b....
+........
+White: 11
+Black: 8
+Move played: ( 5 , 4 )
+
+Current player: Black
+bbbw....
+.www....
+.www....
+...bw...
+...bwbbb
+...bw...
+...b....
+........
+White: 10
+Black: 10
+Move played: ( 0 , 4 )
+
+Current player: White
+bbbbb...
+.www....
+.www....
+...bw...
+...bwbbb
+...bw...
+...b....
+........
+White: 12
+Black: 9
+Move played: ( 3 , 6 )
+
+Current player: Black
+bbbbb...
+.www....
+.www....
+...bw.w.
+...bwwbb
+...bw...
+...b....
+........
+White: 11
+Black: 11
+Move played: ( 2 , 6 )
+
+Current player: White
+bbbbb...
+.www....
+.www..b.
+...bw.b.
+...bwwbb
+...bw...
+...b....
+........
+White: 13
+Black: 10
+Move played: ( 2 , 7 )
+
+Current player: Black
+bbbbb...
+.www....
+.www..bw
+...bw.w.
+...bwwbb
+...bw...
+...b....
+........
+White: 12
+Black: 12
+Move played: ( 3 , 1 )
+
+Current player: White
+bbbbb...
+.bwb....
+.bbw..bw
+.b.bw.w.
+...bwwbb
+...bw...
+...b....
+........
+White: 17
+Black: 8
+Move played: ( 2 , 0 )
+
+Current player: Black
+bbbbb...
+.bwb....
+wwww..bw
+.b.bw.w.
+...bwwbb
+...bw...
+...b....
+........
+White: 15
+Black: 11
+Move played: ( 5 , 6 )
+
+Current player: White
+bbbbb...
+.bbb....
+wwwb..bw
+.b.bb.w.
+...bwbbb
+...bw.b.
+...b....
+........
+White: 20
+Black: 7
+Move played: ( 5 , 2 )
+
+Current player: Black
+bbbbb...
+.bbb....
+wwwb..bw
+.b.bb.w.
+...bwbbb
+..www.b.
+...b....
+........
+White: 19
+Black: 9
+Move played: ( 2 , 5 )
+
+Current player: White
+bbbbb...
+.bbb....
+wwwb.bbw
+.b.bb.b.
+...bwbbb
+..www.b.
+...b....
+........
+White: 21
+Black: 8
+Move played: ( 1 , 6 )
+
+Current player: Black
+bbbbb...
+.bbb..w.
+wwwb.wbw
+.b.bw.b.
+...wwbbb
+..www.b.
+...b....
+........
+White: 18
+Black: 12
+Move played: ( 3 , 5 )
+
+Current player: White
+bbbbb...
+.bbb..w.
+wwwb.wbw
+.b.bbbb.
+...wwbbb
+..www.b.
+...b....
+........
+White: 20
+Black: 11
+Move played: ( 2 , 4 )
+
+Current player: Black
+bbbbb...
+.bbb..w.
+wwwwwwbw
+.b.bwbb.
+...wwbbb
+..www.b.
+...b....
+........
+White: 18
+Black: 14
+Move played: ( 1 , 4 )
+
+Current player: White
+bbbbb...
+.bbbb.w.
+wwwwwbbw
+.b.bwbb.
+...wwbbb
+..www.b.
+...b....
+........
+White: 20
+Black: 13
+Move played: ( 6 , 7 )
+
+Current player: Black
+bbbbb...
+.bbbb.w.
+wwwwwbbw
+.b.bwbb.
+...wwwbb
+..www.w.
+...b...w
+........
+White: 18
 Black: 16
 Move played: ( 1 , 5 )
 
 Current player: White
-wwwwwww.
-bbbbbb..
-wwbwbwbb
-..wbb.w.
-.w.bbb..
-....bw..
+bbbbb...
+.bbbbbw.
+wwwwbbbw
+.b.bwbb.
+...wwwbb
+..www.w.
+...b...w
 ........
-........
-White: 16
+White: 20
 Black: 15
-Move played: ( 5 , 2 )
+Move played: ( 1 , 0 )
 
 Current player: Black
+bbbbb...
 wwwwwww.
-bbbbbb..
-wwbwbwbb
-..wbw.w.
-.w.wbb..
-..w.bw..
-........
-........
-White: 14
-Black: 18
-Move played: ( 3 , 5 )
-
-Current player: White
-wwwwwww.
-bbbbbb..
-wwbwbwbb
-..wbbbw.
-.w.wbb..
-..w.bw..
-........
-........
-White: 16
-Black: 17
-Move played: ( 4 , 6 )
-
-Current player: Black
-wwwwwww.
-bbbwbb..
-wwbwwwbb
-..wbbww.
-.w.wwww.
-..w.bw..
-........
-........
-White: 11
-Black: 23
-Move played: ( 5 , 0 )
-
-Current player: White
-wwwwwww.
-bbbwbb..
-wwbbwwbb
-..bbbww.
-.b.wwww.
-b.w.bw..
-........
+wwwwbbbw
+.b.bwbb.
+...wwwbb
+..www.w.
+...b...w
 ........
 White: 15
-Black: 20
-Move played: ( 3 , 1 )
-
-Current player: Black
-wwwwwww.
-bbbwbb..
-wwwbwwbb
-.wwwwww.
-.b.wwww.
-b.w.bw..
-........
-........
-White: 11
-Black: 25
-Move played: ( 4 , 2 )
+Black: 21
+Move played: ( 3 , 2 )
 
 Current player: White
-wwwwwww.
-bbbwbb..
-wwwbbwbb
-.wwbwww.
-.bbwwww.
-b.w.bw..
+bbbbb...
+wwbwwww.
+wwbwbbbw
+.bbbwbb.
+...wwwbb
+..www.w.
+...b...w
 ........
-........
-White: 14
-Black: 23
-Move played: ( 1 , 6 )
-
-Current player: Black
-wwwwwww.
-bbbwwww.
-wwwbbwwb
-.wwbwww.
-.bbwwww.
-b.w.bw..
-........
-........
-White: 11
-Black: 27
+White: 18
+Black: 19
 Move played: ( 1 , 7 )
 
-Current player: White
-wwwwwww.
-bbbbbbbb
-wwwbbwwb
-.wwbwww.
-.bbwwww.
-b.w.bw..
-........
+Current player: Black
+bbbbb...
+wwbwwwww
+wwbwbbww
+.bbbwwb.
+...wwwbb
+..www.w.
+...b...w
 ........
 White: 16
+Black: 22
+Move played: ( 0 , 6 )
+
+Current player: White
+bbbbb.b.
+wwbwwbbw
+wwbwbbbw
+.bbbwwb.
+...wwwbb
+..www.w.
+...b...w
+........
+White: 20
+Black: 19
+Move played: ( 0 , 5 )
+
+Current player: Black
+bbbbbwb.
+wwbwwwww
+wwbwbwbw
+.bbbwwb.
+...wwwbb
+..www.w.
+...b...w
+........
+White: 17
 Black: 23
-Move played: ( 5 , 1 )
-
-Current player: Black
-wwwwwww.
-bbbbbwbb
-wwwbwwwb
-.wwwwww.
-.bwwwww.
-bww.bw..
-........
-........
-White: 12
-Black: 28
-Move played: ( 5 , 7 )
+Move played: ( 4 , 1 )
 
 Current player: White
-wwwwwww.
-bbbbbwbb
-wwwbbwwb
-.wwwwbw.
-.bwwwwb.
-bww.bw.b
-........
-........
-White: 16
-Black: 25
-Move played: ( 3 , 7 )
-
-Current player: Black
-wwwwwww.
-bbbbbwbb
-wwwbbwwb
-.wwwwbww
-.bwwwww.
-bww.bw.b
-........
-........
-White: 15
-Black: 27
-Move played: ( 4 , 7 )
-
-Current player: White
-wwwwwww.
-bbbbbwbb
-wwwbbbwb
-.wwwwbbw
-.bbbbbbb
-bww.bw.b
-........
-........
-White: 23
-Black: 20
-Move played: ( 0 , 7 )
-
-Current player: Black
-wwwwwwww
-bbbbbwww
-wwwbbwww
-.wwwwbbw
-.bbbbbbb
-bww.bw.b
-........
+bbbbbwb.
+wwbwwwww
+wwbwbwbw
+.bbbwwb.
+.b.wwwbb
+..bww.w.
+...b...w
 ........
 White: 19
-Black: 25
+Black: 22
+Move played: ( 4 , 2 )
+
+Current player: Black
+bbbbbwb.
+wwbwwwww
+wwbwwwbw
+.wbwwwb.
+.bwwwwbb
+..bww.w.
+...b...w
+........
+White: 16
+Black: 26
 Move played: ( 3 , 0 )
 
 Current player: White
-wwwwwwww
-bbbbbwww
-wbwbbwww
-bbbbbbbw
-.bbbbbbb
-bww.bw.b
-........
-........
-White: 25
-Black: 20
-Move played: ( 5 , 6 )
-
-Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwbwww
-bbbbwbbw
-.bbbbwbb
-bww.bwwb
-........
+bbbbbwb.
+bwbwwwww
+bbbwwwbw
+bbbwwwb.
+.bwwwwbb
+..bww.w.
+...b...w
 ........
 White: 21
-Black: 25
-Move played: ( 5 , 3 )
-
-Current player: White
-wwwwwwww
-bbwbbwww
-wbwwbwww
-bbbbwbbw
-.bbbbwbb
-bbbbbwwb
-........
-........
-White: 24
-Black: 23
-Move played: ( 6 , 0 )
+Black: 22
+Move played: ( 0 , 7 )
 
 Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bbbwwbbw
-.bwbbwbb
-bwbbbwwb
-w.......
+bbbbbwww
+bwbwwwww
+bbbwwwbw
+bbbwwwb.
+.bwwwwbb
+..bww.w.
+...b...w
 ........
 White: 20
-Black: 28
-Move played: ( 6 , 1 )
-
-Current player: White
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bbbwwbbw
-.bwbbwbb
-bwbbbwwb
-wb......
-........
-White: 21
-Black: 28
-Move played: ( 4 , 0 )
-
-Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwbbw
-wwwbbwbb
-wwbbbwwb
-wb......
-........
-White: 18
-Black: 32
+Black: 24
 Move played: ( 6 , 4 )
 
 Current player: White
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwbbw
-wwwbbwbb
-wwbbbbwb
-wb..b...
+bbbbbwww
+bwbwbwww
+bbbwbwbw
+bbbwbwb.
+.bbwbwbb
+..bbb.w.
+...bb..w
 ........
-White: 20
-Black: 31
-Move played: ( 7 , 0 )
+White: 28
+Black: 17
+Move played: ( 5 , 1 )
 
 Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwbbw
-wwwwbwbb
-wwwbbbwb
-ww..b...
-w.......
-White: 17
-Black: 35
-Move played: ( 6 , 3 )
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bwbwbwb.
+.wwwbwbb
+.wbbb.w.
+...bb..w
+........
+White: 24
+Black: 22
+Move played: ( 4 , 0 )
 
 Current player: White
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwbbw
-wbwwbwbb
-wwbbbbwb
-ww.bb...
-w.......
-White: 20
-Black: 33
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bbbwbwb.
+bbbbbwbb
+.wbbb.w.
+...bb..w
+........
+White: 29
+Black: 18
+Move played: ( 5 , 0 )
+
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bbwwbwb.
+bwbbbwbb
+wwbbb.w.
+...bb..w
+........
+White: 27
+Black: 21
+Move played: ( 6 , 0 )
+
+Current player: White
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bbwwbwb.
+bwbbbwbb
+bbbbb.w.
+b..bb..w
+........
+White: 30
+Black: 19
 Move played: ( 6 , 2 )
 
 Current player: Black
-wwwwwwww
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bbwwbwb.
+bwwbwwbb
+bbwwb.w.
+b.wbb..w
+........
+White: 26
+Black: 24
+Move played: ( 5 , 5 )
+
+Current player: White
+bbbbbwww
+bwbwbwww
+bwbwbwbw
+bbwbbwb.
+bwwbbwbb
+bbwwbbw.
+b.wbb..w
+........
+White: 29
+Black: 22
+Move played: ( 3 , 7 )
+
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwbb
-wwbwbbwb
-wwwbb...
-w.......
-White: 17
-Black: 37
+bwwbbwbb
+bbwwbbw.
+b.wbb..w
+........
+White: 27
+Black: 25
+Move played: ( 5 , 7 )
+
+Current player: White
+bbbbbwww
+bwbwbwww
+bwbwbwww
+bbwbbwww
+bwwbbwbb
+bbwwbbbb
+b.wbb..w
+........
+White: 29
+Black: 24
+Move played: ( 6 , 1 )
+
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwbwbwww
+bbwbbwww
+bwwbbwbb
+bwwwbbbb
+bwwbb..w
+........
+White: 28
+Black: 26
 Move played: ( 7 , 1 )
 
 Current player: White
-wwwwwwww
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwbb
-wwbwbbwb
-wwwbb...
+bbwbbwbb
+bbwbbbbb
+bbbbb..w
+.b......
+White: 34
+Black: 21
+Move played: ( 7 , 0 )
+
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwbwbwww
+bbwbbwww
+bbwbbwbb
+bbwbbbbb
+bwbbb..w
 wb......
-White: 18
-Black: 37
-Move played: ( 7 , 3 )
-
-Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwwb
-wwbwbwwb
-wwwbw...
-wb.w....
-White: 15
-Black: 41
-Move played: ( 6 , 5 )
+White: 33
+Black: 23
+Move played: ( 7 , 2 )
 
 Current player: White
-wwwwwwww
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwwb
-wwbwbwbb
-wwwbbb..
-wb.w....
-White: 18
-Black: 39
-Move played: ( 6 , 7 )
-
-Current player: Black
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwwb
-wwbwbwwb
-wwwbbb.w
-wb.w....
-White: 17
-Black: 41
-Move played: ( 7 , 7 )
-
-Current player: White
-wwwwwwww
-bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwwb
-wwbwbwwb
-wwwbbb.w
-wb.w...b
-White: 18
-Black: 41
+bbwbbwbb
+bbwbbbbb
+bbbbb..w
+wbb.....
+White: 35
+Black: 22
 Move played: ( 7 , 5 )
 
 Current player: Black
-wwwwwwww
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbwwwwww
-bwbwwwbw
-wbwwwwwb
-wwbwbwwb
-wwwbwb.w
-wb.w.w.b
-White: 17
-Black: 43
-Move played: ( 6 , 6 )
+bbwbbwbb
+bbwwbbbb
+bbbbw..w
+wbb..w..
+White: 33
+Black: 25
+Move played: ( 6 , 5 )
 
 Current player: White
-wwwwwwww
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbbwwwww
-bwbbwwbw
-wbwwbwwb
-wwbwbbwb
-wwwbwbbw
-wb.w.w.b
-White: 22
-Black: 39
-Move played: ( 7 , 2 )
-
-Current player: Black
-wwwwwwww
-bbwbbwww
-wbbwwwww
-bwbbwwbw
-wbwwbwwb
-wwbwwbwb
-wwwwwbbw
-wwww.w.b
-White: 19
-Black: 43
+bbwbbwbb
+bbwwbbbb
+bbbbbb.w
+wbb..w..
+White: 35
+Black: 24
 Move played: ( 7 , 4 )
 
-Current player: White
-wwwwwwww
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbbwwwww
-bwbbwwbw
-wbwwbwwb
-wwbwwbwb
-wwwbwbbw
-wwwwbw.b
-White: 21
-Black: 42
-Move played: ( 7 , 6 )
+bbwbbwbb
+bbwwbbbb
+bbbwbb.w
+wbb.ww..
+White: 34
+Black: 26
+Move played: ( 7 , 7 )
 
-wwwwwwww
+Current player: White
+bbbbbwww
+bwbwbwww
+bwbwbwww
 bbwbbwww
-wbbwwwww
-bwbbwwbw
-wbwwbwwb
-wwbwwbwb
-wwwbwwbw
-wwwwbwwb
-White: 20
-Black: 44
+bbwbbwbb
+bbwwbbbb
+bbbwbb.b
+wbb.ww.b
+White: 36
+Black: 25
+Move played: ( 6 , 6 )
+
+Current player: Black
+bbbbbwww
+bwbwbwww
+bwwwbwww
+bbwwbwww
+bbwbwwwb
+bbwwbwwb
+bbbwwwwb
+wbb.ww.b
+White: 28
+Black: 34
+Move played: ( 7 , 3 )
+
+bbbbbwww
+bwbwbwww
+bwwwbwww
+bbwwbwww
+bbwbwwwb
+bbwbbwwb
+bbbbwwwb
+wbbbww.b
+White: 31
+Black: 32

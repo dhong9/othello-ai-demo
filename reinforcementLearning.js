@@ -33,7 +33,7 @@ const test = () => {
             if (err2) console.error("Unable to read qTableBlack.json");
 
             let currPlayer = 1;
-            while (!othello.gameOver(othello.board)) {
+            while (true) {
                 console.log("Current player:", currPlayer === 1 ? "Black" : "White");
                 printStats(othello.board);
                 
@@ -41,11 +41,25 @@ const test = () => {
                 const prevState = othello.fen(othello.board, currPlayer);
                 const qValues = (currPlayer === 2 ? qTableWhite[prevState] : qTableBlack[prevState]) || {};
                 const moves = othello.getValidMoves(othello.board, currPlayer);
-                const [bestRow, bestCol] = moves.reduce((best, move) => (qValues[move] || 0) > (qValues[best] || 0) ? move : best);
-                othello.makeMove(othello.board, bestRow, bestCol, currPlayer);
-                console.log("Move played: (", bestRow, ",", bestCol, ")");
+
+                if (!moves.length) {
+                    console.warn("No valid moves for ", currPlayer);
+                    break;
+                }
+
+                // Exploration: Random move with probability epsilon
+                const epsilon = 0.1;
+                const randomIndex = Math.floor(Math.random() * moves.length);
+                const randomMove = moves[randomIndex];
+                const bestMove = moves.reduce((best, move) => (qValues[move] || 0) > (qValues[best] || 0) ? move : best);
+                const [selectedRow, selectedCol] = Math.random() < epsilon ? randomMove : bestMove;
+
+                othello.makeMove(othello.board, selectedRow, selectedCol, currPlayer);
+                console.log("Move played: (", selectedRow, ",", selectedCol, ")");
 
                 currPlayer = currPlayer === 1 ? 2 : 1;
+
+                console.log();
             }
         });
     });
