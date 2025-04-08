@@ -8,8 +8,8 @@ const printBoard = board => console.log(
 
 const printStats = board => {
     printBoard(board);
-    console.log("White:", othello.score(board, 1));
-    console.log("Black:", othello.score(board, 2));
+    console.log("Black:", othello.score(board, 1));
+    console.log("White:", othello.score(board, 2));
 }
 
 // Train

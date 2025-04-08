@@ -7,8 +7,8 @@ Current player: Black
 ........
 ........
 ........
-White: 2
 Black: 2
+White: 2
 Move played: ( 4 , 5 )
 
 Current player: White
@@ -20,8 +20,8 @@ Current player: White
 ........
 ........
 ........
-White: 4
-Black: 1
+Black: 4
+White: 1
 Move played: ( 5 , 3 )
 
 Current player: Black
@@ -33,8 +33,8 @@ Current player: Black
 ...w....
 ........
 ........
-White: 3
 Black: 3
+White: 3
 Move played: ( 2 , 2 )
 
 Current player: White
@@ -46,8 +46,8 @@ Current player: White
 ...w....
 ........
 ........
-White: 5
-Black: 2
+Black: 5
+White: 2
 Move played: ( 2 , 3 )
 
 Current player: Black
@@ -59,8 +59,8 @@ Current player: Black
 ...w....
 ........
 ........
-White: 4
 Black: 4
+White: 4
 Move played: ( 1 , 2 )
 
 Current player: White
@@ -72,8 +72,8 @@ Current player: White
 ...w....
 ........
 ........
-White: 6
-Black: 3
+Black: 6
+White: 3
 Move played: ( 4 , 6 )
 
 Current player: Black
@@ -85,8 +85,8 @@ Current player: Black
 ...w....
 ........
 ........
-White: 4
-Black: 6
+Black: 4
+White: 6
 Move played: ( 6 , 3 )
 
 Current player: White
@@ -98,8 +98,8 @@ Current player: White
 ...b....
 ...b....
 ........
-White: 8
-Black: 3
+Black: 8
+White: 3
 Move played: ( 0 , 1 )
 
 Current player: Black
@@ -111,8 +111,8 @@ Current player: Black
 ...b....
 ...b....
 ........
-White: 5
-Black: 7
+Black: 5
+White: 7
 Move played: ( 1 , 3 )
 
 Current player: White
@@ -124,8 +124,8 @@ Current player: White
 ...b....
 ...b....
 ........
-White: 7
-Black: 6
+Black: 7
+White: 6
 Move played: ( 1 , 1 )
 
 Current player: Black
@@ -137,8 +137,8 @@ Current player: Black
 ...b....
 ...b....
 ........
-White: 5
-Black: 9
+Black: 5
+White: 9
 Move played: ( 4 , 7 )
 
 Current player: White
@@ -150,8 +150,8 @@ Current player: White
 ...b....
 ...b....
 ........
-White: 9
-Black: 6
+Black: 9
+White: 6
 Move played: ( 0 , 3 )
 
 Current player: Black
@@ -163,8 +163,8 @@ Current player: Black
 ...b....
 ...b....
 ........
-White: 7
-Black: 9
+Black: 7
+White: 9
 Move played: ( 0 , 0 )
 
 Current player: White
@@ -176,8 +176,8 @@ bw.w....
 ...b....
 ...b....
 ........
-White: 11
-Black: 6
+Black: 11
+White: 6
 Move played: ( 2 , 1 )
 
 Current player: Black
@@ -189,8 +189,8 @@ bw.w....
 ...b....
 ...b....
 ........
-White: 9
 Black: 9
+White: 9
 Move played: ( 0 , 2 )
 
 Current player: White
@@ -202,8 +202,8 @@ bbbw....
 ...b....
 ...b....
 ........
-White: 11
-Black: 8
+Black: 11
+White: 8
 Move played: ( 5 , 4 )
 
 Current player: Black
@@ -215,8 +215,8 @@ bbbw....
 ...bw...
 ...b....
 ........
-White: 10
 Black: 10
+White: 10
 Move played: ( 0 , 4 )
 
 Current player: White
@@ -228,8 +228,8 @@ bbbbb...
 ...bw...
 ...b....
 ........
-White: 12
-Black: 9
+Black: 12
+White: 9
 Move played: ( 3 , 6 )
 
 Current player: Black
@@ -241,8 +241,8 @@ bbbbb...
 ...bw...
 ...b....
 ........
-White: 11
 Black: 11
+White: 11
 Move played: ( 2 , 6 )
 
 Current player: White
@@ -254,8 +254,8 @@ bbbbb...
 ...bw...
 ...b....
 ........
-White: 13
-Black: 10
+Black: 13
+White: 10
 Move played: ( 2 , 7 )
 
 Current player: Black
@@ -267,8 +267,8 @@ bbbbb...
 ...bw...
 ...b....
 ........
-White: 12
 Black: 12
+White: 12
 Move played: ( 3 , 1 )
 
 Current player: White
@@ -280,8 +280,8 @@ bbbbb...
 ...bw...
 ...b....
 ........
-White: 17
-Black: 8
+Black: 17
+White: 8
 Move played: ( 2 , 0 )
 
 Current player: Black
@@ -293,8 +293,8 @@ wwww..bw
 ...bw...
 ...b....
 ........
-White: 15
-Black: 11
+Black: 15
+White: 11
 Move played: ( 5 , 6 )
 
 Current player: White
@@ -306,8 +306,8 @@ wwwb..bw
 ...bw.b.
 ...b....
 ........
-White: 20
-Black: 7
+Black: 20
+White: 7
 Move played: ( 5 , 2 )
 
 Current player: Black
@@ -319,8 +319,8 @@ wwwb..bw
 ..www.b.
 ...b....
 ........
-White: 19
-Black: 9
+Black: 19
+White: 9
 Move played: ( 2 , 5 )
 
 Current player: White
@@ -332,8 +332,8 @@ wwwb.bbw
 ..www.b.
 ...b....
 ........
-White: 21
-Black: 8
+Black: 21
+White: 8
 Move played: ( 1 , 6 )
 
 Current player: Black
@@ -345,8 +345,8 @@ wwwb.wbw
 ..www.b.
 ...b....
 ........
-White: 18
-Black: 12
+Black: 18
+White: 12
 Move played: ( 3 , 5 )
 
 Current player: White
@@ -358,8 +358,8 @@ wwwb.wbw
 ..www.b.
 ...b....
 ........
-White: 20
-Black: 11
+Black: 20
+White: 11
 Move played: ( 2 , 4 )
 
 Current player: Black
@@ -371,8 +371,8 @@ wwwwwwbw
 ..www.b.
 ...b....
 ........
-White: 18
-Black: 14
+Black: 18
+White: 14
 Move played: ( 1 , 4 )
 
 Current player: White
@@ -384,8 +384,8 @@ wwwwwbbw
 ..www.b.
 ...b....
 ........
-White: 20
-Black: 13
+Black: 20
+White: 13
 Move played: ( 6 , 7 )
 
 Current player: Black
@@ -397,8 +397,8 @@ wwwwwbbw
 ..www.w.
 ...b...w
 ........
-White: 18
-Black: 16
+Black: 18
+White: 16
 Move played: ( 1 , 5 )
 
 Current player: White
@@ -410,8 +410,8 @@ wwwwbbbw
 ..www.w.
 ...b...w
 ........
-White: 20
-Black: 15
+Black: 20
+White: 15
 Move played: ( 1 , 0 )
 
 Current player: Black
@@ -423,8 +423,8 @@ wwwwbbbw
 ..www.w.
 ...b...w
 ........
-White: 15
-Black: 21
+Black: 15
+White: 21
 Move played: ( 3 , 2 )
 
 Current player: White
@@ -436,8 +436,8 @@ wwbwbbbw
 ..www.w.
 ...b...w
 ........
-White: 18
-Black: 19
+Black: 18
+White: 19
 Move played: ( 1 , 7 )
 
 Current player: Black
@@ -449,8 +449,8 @@ wwbwbbww
 ..www.w.
 ...b...w
 ........
-White: 16
-Black: 22
+Black: 16
+White: 22
 Move played: ( 0 , 6 )
 
 Current player: White
@@ -462,8 +462,8 @@ wwbwbbbw
 ..www.w.
 ...b...w
 ........
-White: 20
-Black: 19
+Black: 20
+White: 19
 Move played: ( 0 , 5 )
 
 Current player: Black
@@ -475,8 +475,8 @@ wwbwbwbw
 ..www.w.
 ...b...w
 ........
-White: 17
-Black: 23
+Black: 17
+White: 23
 Move played: ( 4 , 1 )
 
 Current player: White
@@ -488,8 +488,8 @@ wwbwbwbw
 ..bww.w.
 ...b...w
 ........
-White: 19
-Black: 22
+Black: 19
+White: 22
 Move played: ( 4 , 2 )
 
 Current player: Black
@@ -501,8 +501,8 @@ wwbwwwbw
 ..bww.w.
 ...b...w
 ........
-White: 16
-Black: 26
+Black: 16
+White: 26
 Move played: ( 3 , 0 )
 
 Current player: White
@@ -514,8 +514,8 @@ bbbwwwb.
 ..bww.w.
 ...b...w
 ........
-White: 21
-Black: 22
+Black: 21
+White: 22
 Move played: ( 0 , 7 )
 
 Current player: Black
@@ -527,8 +527,8 @@ bbbwwwb.
 ..bww.w.
 ...b...w
 ........
-White: 20
-Black: 24
+Black: 20
+White: 24
 Move played: ( 6 , 4 )
 
 Current player: White
@@ -540,8 +540,8 @@ bbbwbwb.
 ..bbb.w.
 ...bb..w
 ........
-White: 28
-Black: 17
+Black: 28
+White: 17
 Move played: ( 5 , 1 )
 
 Current player: Black
@@ -553,8 +553,8 @@ bwbwbwb.
 .wbbb.w.
 ...bb..w
 ........
-White: 24
-Black: 22
+Black: 24
+White: 22
 Move played: ( 4 , 0 )
 
 Current player: White
@@ -566,8 +566,8 @@ bbbbbwbb
 .wbbb.w.
 ...bb..w
 ........
-White: 29
-Black: 18
+Black: 29
+White: 18
 Move played: ( 5 , 0 )
 
 Current player: Black
@@ -579,8 +579,8 @@ bwbbbwbb
 wwbbb.w.
 ...bb..w
 ........
-White: 27
-Black: 21
+Black: 27
+White: 21
 Move played: ( 6 , 0 )
 
 Current player: White
@@ -592,8 +592,8 @@ bwbbbwbb
 bbbbb.w.
 b..bb..w
 ........
-White: 30
-Black: 19
+Black: 30
+White: 19
 Move played: ( 6 , 2 )
 
 Current player: Black
@@ -605,8 +605,8 @@ bwwbwwbb
 bbwwb.w.
 b.wbb..w
 ........
-White: 26
-Black: 24
+Black: 26
+White: 24
 Move played: ( 5 , 5 )
 
 Current player: White
@@ -618,8 +618,8 @@ bwwbbwbb
 bbwwbbw.
 b.wbb..w
 ........
-White: 29
-Black: 22
+Black: 29
+White: 22
 Move played: ( 3 , 7 )
 
 Current player: Black
@@ -631,8 +631,8 @@ bwwbbwbb
 bbwwbbw.
 b.wbb..w
 ........
-White: 27
-Black: 25
+Black: 27
+White: 25
 Move played: ( 5 , 7 )
 
 Current player: White
@@ -644,8 +644,8 @@ bwwbbwbb
 bbwwbbbb
 b.wbb..w
 ........
-White: 29
-Black: 24
+Black: 29
+White: 24
 Move played: ( 6 , 1 )
 
 Current player: Black
@@ -657,8 +657,8 @@ bwwbbwbb
 bwwwbbbb
 bwwbb..w
 ........
-White: 28
-Black: 26
+Black: 28
+White: 26
 Move played: ( 7 , 1 )
 
 Current player: White
@@ -670,8 +670,8 @@ bbwbbwbb
 bbwbbbbb
 bbbbb..w
 .b......
-White: 34
-Black: 21
+Black: 34
+White: 21
 Move played: ( 7 , 0 )
 
 Current player: Black
@@ -683,8 +683,8 @@ bbwbbwbb
 bbwbbbbb
 bwbbb..w
 wb......
-White: 33
-Black: 23
+Black: 33
+White: 23
 Move played: ( 7 , 2 )
 
 Current player: White
@@ -696,8 +696,8 @@ bbwbbwbb
 bbwbbbbb
 bbbbb..w
 wbb.....
-White: 35
-Black: 22
+Black: 35
+White: 22
 Move played: ( 7 , 5 )
 
 Current player: Black
@@ -709,8 +709,8 @@ bbwbbwbb
 bbwwbbbb
 bbbbw..w
 wbb..w..
-White: 33
-Black: 25
+Black: 33
+White: 25
 Move played: ( 6 , 5 )
 
 Current player: White
@@ -722,8 +722,8 @@ bbwbbwbb
 bbwwbbbb
 bbbbbb.w
 wbb..w..
-White: 35
-Black: 24
+Black: 35
+White: 24
 Move played: ( 7 , 4 )
 
 Current player: Black
@@ -735,8 +735,8 @@ bbwbbwbb
 bbwwbbbb
 bbbwbb.w
 wbb.ww..
-White: 34
-Black: 26
+Black: 34
+White: 26
 Move played: ( 7 , 7 )
 
 Current player: White
@@ -748,8 +748,8 @@ bbwbbwbb
 bbwwbbbb
 bbbwbb.b
 wbb.ww.b
-White: 36
-Black: 25
+Black: 36
+White: 25
 Move played: ( 6 , 6 )
 
 Current player: Black
@@ -761,8 +761,8 @@ bbwbwwwb
 bbwwbwwb
 bbbwwwwb
 wbb.ww.b
-White: 28
-Black: 34
+Black: 28
+White: 34
 Move played: ( 7 , 3 )
 
 bbbbbwww
@@ -773,5 +773,5 @@ bbwbwwwb
 bbwbbwwb
 bbbbwwwb
 wbbbww.b
-White: 31
-Black: 32
+Black: 31
+White: 32
